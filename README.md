@@ -1,6 +1,8 @@
 # TallerMiniAOD
 Set up your Environment
+
 mkdir MYDEMOANALYZER
+
 cd MYDEMOANALYZER
 cmssw-el8	(singularity/apptainer link)
 cmsrel CMSSW_13_0_13
